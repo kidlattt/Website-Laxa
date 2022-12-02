@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+
+    <title>
+      MP8 by Laxa
+    </title>
+
+    <style>
+      
+      body {
+        background-image: url("V.webp") ;
+        font-family: Rockwell;
+        background-repeat: no-repeat;
+        background-size: cover;
+        
+      }
+    
+      .banner {
+        background-image: url("C.webp");
+        background-repeat: no-repeat;
+        padding: 2px;
+        border-radius: 45px;
+      }
+    
+      .banner_text {
+        font-weight: 50;
+        font-family: Berlin Sans FB Demi;
+        text-align: center;
+        color: purple;
+
+      }
+
+      .navbar {
+        overflow: hidden;
+        background-color: #6c3483;
+        font-family:Berlin Sans FB;
+        display: flex; 
+	justify-content: center;
+        
+
+      }
+
+      .navbar a {
+        float: left;
+        font-size: 20px;
+        color: white;
+        text-align: right;
+        padding: 14px 16px;
+        text-decoration: none;
+   
+      }
+
+      .dropdown {
+        float: left;
+        overflow: hidden;
+      }
+
+      .dropdown .dropbtn {
+        font-size: 20px;  
+        border: none;
+        outline: none;
+        color: white;
+        padding: 14px 16px;
+        background-color: inherit;
+        font-family: inherit;
+        margin: 0 20px 0 20px;
+      }
+
+      .navbar a:hover, .dropdown:hover .dropbtn {
+        background-color: #bb8fce;
+      }
+
+      .dropdown-content {
+        display: none;
+        position: absolute;
+        background-color: #f9f9f9;
+        min-width: 160px;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        z-index: 1;
+      }
+
+      .dropdown-content a {
+        float: none;
+        color: purple;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+        text-align: center;
+      }
+
+      .dropdown-content a:hover {
+        background-color: #ddd;
+      }
+
+      .dropdown:hover .dropdown-content {
+        display: block;
+      }
+
+      footer{
+        padding:10px;
+        font-size:20px;
+        font-weight:bold;
+        text-align:center;
+        background:#bb8fce;
+        color:black;
+        font-family:Arial;
+        letter-spacing:1px;
+
+      }
+      
+
+
+    </style>
+
+  </head>
+
+  <body>
+
+    <div class="banner">
+      <div class="banner_text">
+        <h1>HOLA! Welcome to My Website</h1>
+		<!-- or <img src="#"> for image text -->
+      </div>  
+    </div>
+
+    <div class="navbar">
+      <a href="#home">Home</a>
+      <div class="dropdown">
+        <button class="dropbtn">Personal 
+          <i class="fa fa-caret-down"></i>
+        </button>
+        <div class="dropdown-content">
+          <a href="MP8 personal data.html">Personal data</a>
+          <a href="MP8 about me.html">About me</a>
+          <a href="MP interest.html">Interest</a>
+        </div>
+      </div> 
+
+      <div class="dropdown">
+        <button class="dropbtn">Education 
+          <i class="fa fa-caret-down"></i>
+        </button>
+        <div class="dropdown-content">
+          <a href="MP8 gradeschool.html">Grade school</a>
+          <a href="MP8 highschool.html">Highschool</a>
+          <a href="MP8 SHS school.html">Senior highschool</a>
+          <a href="MP8 educ college.html">College</a>
+        </div>
+      </div> 
+
+      <div class="dropdown">
+        <button class="dropbtn">Family 
+          <i class="fa fa-caret-down"></i>
+        </button>
+        <div class="dropdown-content">
+          <a href="MP8 parents & siblings.html">Parents & Siblings</a>
+        </div>
+      </div> 
+
+      <div class="dropdown">
+        <button class="dropbtn">Friends 
+          <i class="fa fa-caret-down"></i>
+        </button>
+        <div class="dropdown-content">
+          <a href="MP CH.html">Childhood</a>
+          <a href="MP8 hs.html">Highschool</a>
+          <a href="MP SHS.html">Seniorhigh school</a>
+          <a href="MP college.html">College</a>
+        </div>
+      </div> 
+
+      <div class="dropdown">
+        <button class="dropbtn">Gallery 
+          <i class="fa fa-caret-down"></i>
+        </button>
+        <div class="dropdown-content">
+          <a href="MP gallery.html">Pictures</a>
+        </div>
+      </div> 
+     
+      <div class="dropdown">
+        <button class="dropbtn">ITC 122 activities 
+          <i class="fa fa-caret-down"></i>
+        </button>
+        <div class="dropdown-content">
+          <a href="MP 1 by Laxa.html">MP1</a>
+          <a href="MP 2 by Laxa.html">MP2</a>
+          <a href="MP3 by Laxa.html">MP3</a>
+          <a href="MP4 by Laxa.html">MP4</a>
+          <a href="MP5 by Laxa.html">MP5</a>
+          <a href="MP6 by Laxa.html">MP6</a>
+          <a href="MP7 by Laxa.html">MP7</a>
+          
+        </div>
+     
+      </div> 
+
+
+    </div>
+
+      <center>
+          <image src="welcome.gif"  width="1100 " height="500">
+      </center>
+
+     
+      
+  </body>
+
+</html>

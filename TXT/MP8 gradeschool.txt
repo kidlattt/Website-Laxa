@@ -1,0 +1,21 @@
+<html>
+<title>MP8 education</title>
+
+<style>
+
+body{
+ background-color: #FBDA61;
+ background-image: linear-gradient(45deg, #FBDA61 0%, #FF5ACD 100%);
+ }
+</style>
+<body>
+<center><font size="5"><h1>Grade school</h1></center><br> 
+<center><img src= "C:\Users\Admin\Desktop\PIX\ranea logo.jpg" width="400">&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<img src= "C:\Users\Admin\Desktop\PIX\ranea.jpg" width="600"><br>
+<br><a href= "https://www.facebook.com/ranea.learningschool"><b><font size="40" color="black">Ranea Learning School, Inc.</a></font></b><br>
+<br><b><font size="6">This is where I studied and graduated but I once transferred school when I was in Grade 3.</b><br>
+<img src= "C:\Users\Admin\Desktop\PIX\kids.png" width="600">
+</body>   
+
+
+
+</html>

@@ -1,0 +1,26 @@
+<html>
+   <head>
+       <title>MP2 by Laxa</title>
+   </head>
+   <BODY BGCOLOR="sky blue"> 
+       <marquee behavior="alternate" scrollamount="30" bgcolor="yellow" height= "50 px" width="100%">
+       <font size="100px" face="Lucida calligraphy" color="black"><b>WHO AM I?</b></marquee></font>
+
+       <center><img src="C:\Users\Admin\Desktop\PIX\zeus.jpg" width="250px" height="250px"></center>
+
+  <p style= "text-align:justify" margin>
+  <style>
+    p{
+      text-indent:50px;
+     }
+  </style>
+      <font size= "5" face= "MS GOTHIC" color="white"> Hi there! I am Boris Zeus B. Laxa, I am 19 years old and I live in Dasmariñas city cavite. I love cooking and my favorite dish is Sinigang, especially pork sinigang.
+      I am supposed to take Cullinary course but here is the pandemic, I choose the practical course. Here I am now pursuing Bachelor of science in Information technology. 
+      I have two siblings and I am the eldest. My mother’s name is Maria Victoria B. Laxa she works as a legal staff and My father’s name is Oscar Laxa Jr. he works as a government employee 
+
+     
+   </p>
+                      
+
+  </body>
+</html>

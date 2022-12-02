@@ -1,0 +1,23 @@
+<html>
+<title>MP8 education</title>
+
+<style>
+
+body{
+  background-color: #85FFBD;
+  background-image: linear-gradient(45deg, #85FFBD 0%, #FFFB7D 50%, #ff7029 100%);
+
+
+ }
+</style>
+<body>
+<center><font size="5"><h1>Grade school</h1></center><br> 
+<center><img src= "C:\Users\Admin\Desktop\PIX\ijmc logo.png" width="400"><br>
+<br><a href= "https://www.facebook.com/IJMCDasmaOfficial/"><b><font size="40" color="#1e8449">Infant Jesus Montessori Center - Dasmariñas</a></font></b><br>
+<br><b><font size="6" color="#af601a">This is where I studied when I was in Grade 3 and after that I go back to my previous school.</b><br>
+<img src= "C:\Users\Admin\Desktop\PIX\kids.png" width="600">
+</body>   
+
+
+
+</html>

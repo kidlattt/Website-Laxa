@@ -1,0 +1,12 @@
+<html>
+<title>MP8 education</title>
+
+<body background ="C:\Users\Admin\Desktop\PIX\educ bg.jpg">
+<center><font size="5"><h1>Senior highschool</h1></center><br> 
+<center><img src= "C:\Users\Admin\Desktop\PIX\perps logo.png" width="300" height="400">&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<img src= "C:\Users\Admin\Desktop\PIX\perps.png" width="700" height="400"><br>
+<br><a href= "https://perpetualdalta.edu.ph/molino-2/"><b><font size="40" color="#a93226">University of Perpetual Help Sytem DALTA Molino Campus</a></font></b><br>
+<br><b><font size="6">This is where I Graduated from Seniorhigh.</b><br>
+<img src= "C:\Users\Admin\Desktop\PIX\shs unif.png">    
+  
+
+</html>

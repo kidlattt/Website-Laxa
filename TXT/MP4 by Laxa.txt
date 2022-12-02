@@ -1,0 +1,263 @@
+<html> 
+
+ <head>
+
+   <title>MP4 My Personal Schedule</title>
+
+ </head>     
+
+ <body>
+ <center>
+ <body background= "C:\Users\Admin\Desktop\PIX\mp4 bg.png">
+
+<table>
+ <table border="2px">
+
+ <caption><center><font face="Times New Roman" size="7px"> My Personal Schedule </center></font></caption>
+  
+  <tr>
+     <th>TIME</th>
+     <th>Sunday</th>
+     <th>Monday</th>
+     <th>Tuesday</th>
+     <th>Wednesday</th>
+     <th>Thursday</th>
+     <th>Friday</th>
+     <th>Saturday</th>
+  </tr>
+
+  <tr>
+     <td><center>5:00-6:00AM</center></td>
+     <td><center>sleeping<br><img src= "C:\Users\Admin\Desktop\PIX\sleep.jpg" width="180px" height="150px"></center></td>
+     <td><center>sleeping<br><img src= "C:\Users\Admin\Desktop\PIX\sleep.jpg" width="180px" height="150px"></center></td>
+     <td><center>sleeping<br><img src= "C:\Users\Admin\Desktop\PIX\sleep.jpg" width="180px" height="150px"></center></td>
+     <td><center>sleeping<br><img src= "C:\Users\Admin\Desktop\PIX\sleep.jpg" width="180px" height="150px"></center></td>
+     <td><center>sleeping<br><img src= "C:\Users\Admin\Desktop\PIX\sleep.jpg" width="180px" height="150px"></center></td>
+     <td><center>sleeping<br><img src= "C:\Users\Admin\Desktop\PIX\sleep.jpg" width="180px" height="150px"></center></td>
+     <td><center>sleeping<br><img src= "C:\Users\Admin\Desktop\PIX\sleep.jpg" width="180px" height="150px"></center></td>
+  </tr>
+  
+  <tr>
+     <td><center>6:00-7:00AM</center></td>
+     <td><center>sleeping<br><img src= "C:\Users\Admin\Desktop\PIX\sleep.jpg" width="180px" height="150px"></center></td>
+     <td><center>sleeping<br><img src= "C:\Users\Admin\Desktop\PIX\sleep.jpg" width="180px" height="150px"></center></td>
+     <td><center>sleeping<br><img src= "C:\Users\Admin\Desktop\PIX\sleep.jpg" width="180px" height="150px"></center></td>
+     <td><center>sleeping<br><img src= "C:\Users\Admin\Desktop\PIX\sleep.jpg" width="180px" height="150px"></center></td>
+     <td><center>sleeping<br><img src= "C:\Users\Admin\Desktop\PIX\sleep.jpg" width="180px" height="150px"></center></td>
+     <td><center>sleeping<br><img src= "C:\Users\Admin\Desktop\PIX\sleep.jpg" width="180px" height="150px"></center></td>
+     <td><center>sleeping<br><img src= "C:\Users\Admin\Desktop\PIX\sleep.jpg" width="180px" height="150px"></center></td>
+  </tr>
+
+  <tr>
+     <td><center>7:00-8:00AM</center></td>
+     <td><center>sleeping<br><img src= "C:\Users\Admin\Desktop\PIX\sleep.jpg" width="180px" height="150px"></center></td>
+     <td><center>sleeping<br><img src= "C:\Users\Admin\Desktop\PIX\sleep.jpg" width="180px" height="150px"></center></td>
+     <td><center>sleeping<br><img src= "C:\Users\Admin\Desktop\PIX\sleep.jpg" width="180px" height="150px"></center></td>
+     <td><center>sleeping<br><img src= "C:\Users\Admin\Desktop\PIX\sleep.jpg" width="180px" height="150px"></center></td>
+     <td><center>sleeping<br><img src= "C:\Users\Admin\Desktop\PIX\sleep.jpg" width="180px" height="150px"></center></td>
+     <td><center>sleeping<br><img src= "C:\Users\Admin\Desktop\PIX\sleep.jpg" width="180px" height="150px"></center></td>
+     <td><center>sleeping<br><img src= "C:\Users\Admin\Desktop\PIX\sleep.jpg" width="180px" height="150px"></center></td>
+  </tr>
+
+  <tr>
+     <td><center>8:00-8:30AM</center></td>
+     <td><center>eating<br><img src= "C:\Users\Admin\Desktop\PIX\eating.jpg" width="180px" height="150px"></center></td>
+     <td><center>eating<br><img src= "C:\Users\Admin\Desktop\PIX\eating.jpg" width="180px" height="150px"></center></td>
+     <td><center>sleeping<br><img src= "C:\Users\Admin\Desktop\PIX\sleep.jpg" width="180px" height="150px"></center></td>
+     <td><center>sleeping<br><img src= "C:\Users\Admin\Desktop\PIX\sleep.jpg" width="180px" height="150px"></center></td>
+     <td><center>sleeping<br><img src= "C:\Users\Admin\Desktop\PIX\sleep.jpg" width="180px" height="150px"></center></td>
+     <td><center>sleeping<br><img src= "C:\Users\Admin\Desktop\PIX\online class.jpg" width="180px" height="150px"></center></td>
+     <td><center>sleeping<br><img src= "C:\Users\Admin\Desktop\PIX\sleep.jpg" width="180px" height="150px"></center></td>    
+  </tr>
+
+  <tr>
+     <td><center>8:30-9:00AM</center></td>
+     <td><center>Online class<br><img src= "C:\Users\Admin\Desktop\PIX\online class.jpg" width="180px" height="150px"></center></td>
+     <td><center>Breakfast<br><img src= "C:\Users\Admin\Desktop\PIX\eating.jpg" width="180px" height="150px"></center></td>
+     <td><center>Sleeping<br><img src= "C:\Users\Admin\Desktop\PIX\sleep.jpg" width="180px" height="150px"></center></td>
+     <td><center>Breakfast<br><img src= "C:\Users\Admin\Desktop\PIX\eating.jpg" width="180px" height="150px"></center></td>
+     <td><center>Sleeping<br><img src= "C:\Users\Admin\Desktop\PIX\sleep.jpg" width="180px" height="150px"></center></td>
+     <td><center>Online class<br><img src= "C:\Users\Admin\Desktop\PIX\online class.jpg" width="180px" height="150px"></center></td>
+     <td><center>Sleeping<br><img src= "C:\Users\Admin\Desktop\PIX\sleep.jpg" width="180px" height="150px"></center></td>
+  </tr>
+ 
+  <tr>
+     <td><center>9:00-10:00AM</center></td>
+     <td><center>Online class<br><img src= "C:\Users\Admin\Desktop\PIX\online class.jpg" width="180px" height="150px"></center></td>
+     <td><center>Online class<br><img src= "C:\Users\Admin\Desktop\PIX\online class.jpg" width="180px" height="150px"></center></td>
+     <td><center>Free time<br><img src= "C:\Users\Admin\Desktop\PIX\free time.jpg" width="180px" height="150px"></center></td>
+     <td><center>Online Class<br><img src= "C:\Users\Admin\Desktop\PIX\online class.jpg" width="180px" height="150px"></center></td>
+     <td><center>Free time<br><img src= "C:\Users\Admin\Desktop\PIX\free time.jpg" width="180px" height="150px"></center></td>
+     <td><center>Online class<br><img src= "C:\Users\Admin\Desktop\PIX\online class.jpg" width="180px" height="150px"></center></td>
+     <td><center>Free time<br><img src= "C:\Users\Admin\Desktop\PIX\free time.jpg" width="180px" height="150px"></center></td>
+  </tr>
+
+  <tr>
+     <td><center>10:00-11:00AM</center></td>
+     <td><center>Lunch<br><img src= "C:\Users\Admin\Desktop\PIX\eating.jpg" width="180px" height="150px"></center></td>
+     <td><center>Online class<br><img src= "C:\Users\Admin\Desktop\PIX\online class.jpg" width="180px" height="150px"></center></td>
+     <td><center>Free time<br><img src= "C:\Users\Admin\Desktop\PIX\free time.jpg" width="180px" height="150px"></center></td>
+     <td><center>Online class<br><img src= "C:\Users\Admin\Desktop\PIX\online class.jpg" width="180px" height="150px"></center></td>
+     <td><center>Cooking lunch<br><img src= "C:\Users\Admin\Desktop\PIX\cooking.jpg" width="180px" height="150px"></center></td>
+     <td><center>Online class<br><img src= "C:\Users\Admin\Desktop\PIX\online class.jpg" width="180px" height="150px"></center></td>
+     <td><center>Online class<br><img src= "C:\Users\Admin\Desktop\PIX\online class.jpg" width="180px" height="150px"></center></td>
+  </tr>
+
+  <tr>
+     <td><center>11:00-12:00NN</center></td>
+     <td><center>Online class<br><img src= "C:\Users\Admin\Desktop\PIX\online class.jpg" width="180px" height="150px"></center></td>
+     <td><center>Lunch<br><img src= "C:\Users\Admin\Desktop\PIX\eating.jpg" width="180px" height="150px"></center></td>
+     <td><center>Lunch<br><img src= "C:\Users\Admin\Desktop\PIX\eating.jpg" width="180px" height="150px"></center></td>
+     <td><center>Lunch<br><img src= "C:\Users\Admin\Desktop\PIX\eating.jpg" width="180px" height="150px"></center></td>
+     <td><center>Lunch<br><<img src= "C:\Users\Admin\Desktop\PIX\eating.jpg" width="180px" height="150px"></center></td>
+     <td><center>Online class<br><img src= "C:\Users\Admin\Desktop\PIX\online class.jpg" width="180px" height="150px"></center></td>
+     <td><center>Online class<br><img src= "C:\Users\Admin\Desktop\PIX\online class.jpg" width="180px" height="150px"></center></td>
+  </tr>
+  
+  <tr>
+     <td><center>12:00-1:00PM</center></td>
+     <td><center>Online class<br><img src= "C:\Users\Admin\Desktop\PIX\online class.jpg" width="180px" height="150px"></center></td>
+     <td><center>Online class<br><img src= "C:\Users\Admin\Desktop\PIX\online class.jpg" width="180px" height="150px"></center></td>
+     <td><center>Free time<br><img src= "C:\Users\Admin\Desktop\PIX\free time.jpg" width="180px" height="150px"></center></td>
+     <td><center>Free time<br><img src= "C:\Users\Admin\Desktop\PIX\free time.jpg" width="180px" height="150px"></center></td>
+     <td><center>Free time<br><img src= "C:\Users\Admin\Desktop\PIX\free time.jpg" width="180px" height="150px"></center></td>
+     <td><center>Online class<br><img src= "C:\Users\Admin\Desktop\PIX\online class.jpg" width="180px" height="150px"></center></td>
+     <td><center>Online class<br><img src= "C:\Users\Admin\Desktop\PIX\online class.jpg" width="180px" height="150px"></center></td>
+   </tr>
+
+   <tr>
+      <td><center>1:00-2:00PM</center></td>
+      <td><center>Online class<br><img src= "C:\Users\Admin\Desktop\PIX\online class.jpg" width="180px" height="150px"></center></td>
+      <td><center>Free time<br><img src= "C:\Users\Admin\Desktop\PIX\free time.jpg" width="180px" height="150px"></center></td>
+      <td><center>Free time<br><img src= "C:\Users\Admin\Desktop\PIX\free time.jpg" width="180px" height="150px"></center></td>
+      <td><center>Free time<br><img src= "C:\Users\Admin\Desktop\PIX\free time.jpg" width="180px" height="150px"></center></td>
+      <td><center>Free time<br><img src= "C:\Users\Admin\Desktop\PIX\free time.jpg" width="180px" height="150px"></center></td>
+      <td><center>Online class<br><img src= "C:\Users\Admin\Desktop\PIX\online class.jpg" width="180px" height="150px"></center></td>
+      <td><center>Online class<br><img src= "C:\Users\Admin\Desktop\PIX\online class.jpg" width="180px" height="150px"></center></td>
+   </tr>
+   
+   <tr>
+      <td><center>2:00-3:00PM</center></td>
+      <td><center>Free time<br><img src= "C:\Users\Admin\Desktop\PIX\free time.jpg" width="180px" height="150px"></center></td>
+      <td><center>Online class<br><img src= "C:\Users\Admin\Desktop\PIX\online class.jpg" width="180px" height="150px"></center></td>
+      <td><center>Online class<br><img src= "C:\Users\Admin\Desktop\PIX\online class.jpg" width="180px" height="150px"></center></td>
+      <td><center>Free time<br><img src= "C:\Users\Admin\Desktop\PIX\free time.jpg" width="180px" height="150px"></center></td>
+      <td><center>Free time<br><img src= "C:\Users\Admin\Desktop\PIX\free time.jpg" width="180px" height="150px"></center></td>
+      <td><center>Free time<br><img src= "C:\Users\Admin\Desktop\PIX\free time.jpg" width="180px" height="150px"></center></td>
+      <td><center>Free time<br><img src= "C:\Users\Admin\Desktop\PIX\free time.jpg" width="180px" height="150px"></center></td>
+   </tr>
+
+   <tr>
+      <td><center>3:00-4:00PM</center></td>
+      <td><center>Doing household chores<br><img src= "C:\Users\Admin\Desktop\PIX\cleaning.jpg" width="180px" height="150px"></center></td>
+      <td><center>Online class<br><img src= "C:\Users\Admin\Desktop\PIX\online class.jpg" width="180px" height="150px"></center></td>
+      <td><center>take a bath<br><img src= "C:\Users\Admin\Desktop\PIX\take a bath.jpg" width="180px" height="150px"></center></td>
+      <td><center>take a bath<br><img src= "C:\Users\Admin\Desktop\PIX\take a bath.jpg" width="180px" height="150px"></center></td>
+      <td><center>Free time<br><img src= "C:\Users\Admin\Desktop\PIX\free time.jpg" width="180px" height="150px"></center></td>
+      <td><center>Free time<br><img src= "C:\Users\Admin\Desktop\PIX\free time.jpg" width="180px" height="150px"></center></td>
+      <td><center>Free time<br><img src= "C:\Users\Admin\Desktop\PIX\free time.jpg" width="180px" height="150px"></center></td>   
+   </tr>
+
+   <tr>
+      <td><center>4:00-5:00PM</center></td>
+      <td><center>Doing household chores<br><img src= "C:\Users\Admin\Desktop\PIX\cleaning.jpg" width="180px" height="150px"></center></td>
+      <td><center>Online class<br><img src= "C:\Users\Admin\Desktop\PIX\online class.jpg" width="180px" height="150px"></center></td>
+      <td><center>Online class<br><img src= "C:\Users\Admin\Desktop\PIX\online class.jpg" width="180px" height="150px"></center></td>
+      <td><center>Doing household chores<br><img src= "C:\Users\Admin\Desktop\PIX\cleaning.jpg" width="180px" height="150px"></center></td>
+      <td><center>Doing household chores<br><img src= "C:\Users\Admin\Desktop\PIX\cleaning.jpg" width="180px" height="150px"></center></td>
+      <td><center>Free time<br><img src= "C:\Users\Admin\Desktop\PIX\free time.jpg" width="180px" height="150px"></center></td>   
+      <td><center>Free time<br><img src= "C:\Users\Admin\Desktop\PIX\free time.jpg" width="180px" height="150px"></center></td>   
+   </tr>
+
+   <tr>
+      <td><center>5:00-6:00PM</center></td>
+      <td><center>Cooking dinner<br><img src= "C:\Users\Admin\Desktop\PIX\cooking.jpg" width="180px" height="150px"></center></td>
+      <td><center>Online class<br><img src= "C:\Users\Admin\Desktop\PIX\online class.jpg" width="180px" height="150px"></center></td>
+      <td><center>Online class<br><img src= "C:\Users\Admin\Desktop\PIX\online class.jpg" width="180px" height="150px"></center></td>
+      <td><center>Online class<br><img src= "C:\Users\Admin\Desktop\PIX\cooking.jpg" width="180px" height="150px"></center></td>
+      <td><center>Cooking dinner<br><img src= "C:\Users\Admin\Desktop\PIX\cooking.jpg" width="180px" height="150px"></center></td>
+      <td><center>Online class<br><img src= "C:\Users\Admin\Desktop\PIX\online class.jpg" width="180px" height="150px"></center></td>
+      <td><center>Online class<br><img src= "C:\Users\Admin\Desktop\PIX\online class.jpg" width="180px" height="150px"></center></td>      
+   </tr>
+
+   <tr>
+      <td><center>6:00-7:00PM</center></td>
+      <td><center>Eating dinner<br><img src= "C:\Users\Admin\Desktop\PIX\eating.jpg" width="180px" height="150px"></center></td> 
+      <td><center>Cooking dinner<br><img src= "C:\Users\Admin\Desktop\PIX\cooking.jpg" width="180px" height="150px"></center></td>
+      <td><center>Cooking dinner<br><img src= "C:\Users\Admin\Desktop\PIX\cooking.jpg" width="180px" height="150px"></center></td>
+      <td><center>Cooking dinner<br><img src= "C:\Users\Admin\Desktop\PIX\cooking.jpg" width="180px" height="150px"></center></td>
+      <td><center>Cooking dinner<br><img src= "C:\Users\Admin\Desktop\PIX\cooking.jpg" width="180px" height="150px"></center></td>
+      <td><center>Cooking dinner<br><img src= "C:\Users\Admin\Desktop\PIX\cooking.jpg" width="180px" height="150px"></center></td>
+      <td><center>Eating dinner<br><img src= "C:\Users\Admin\Desktop\PIX\eating.jpg" width="180px" height="150px"></center></td>     
+   </tr>
+
+   <tr>
+      <td><center>7:00-8:00PM</center></td>
+      <td><center>Free time<br><img src= "C:\Users\Admin\Desktop\PIX\free time.jpg" width="180px" height="150px"></center></td>
+      <td><center>Eating dinner<br><img src= "C:\Users\Admin\Desktop\PIX\eating.jpg" width="180px" height="150px"></center></td>
+      <td><center>Eating dinner<br><img src= "C:\Users\Admin\Desktop\PIX\eating.jpg" width="180px" height="150px"></center></td>
+      <td><center>Eating dinner<br><img src= "C:\Users\Admin\Desktop\PIX\eating.jpg" width="180px" height="150px"></center></td>
+      <td><center>Eating dinner<br><img src= "C:\Users\Admin\Desktop\PIX\eating.jpg" width="180px" height="150px"></center></td>
+      <td><center>Eating dinner<br><img src= "C:\Users\Admin\Desktop\PIX\eating.jpg" width="180px" height="150px"></center></td>
+      <td><center>Free time<br><img src= "C:\Users\Admin\Desktop\PIX\free time.jpg" width="180px" height="150px"></center></td>
+  </tr>
+
+  <tr>
+     <td><center>8:00-9:00PM</center></td>
+     <td><center>Doing household chores<br><img src= "C:\Users\Admin\Desktop\PIX\cleaning.jpg" width="180px" height="150px"></center></td>
+     <td><center>Doing household chores<br><img src= "C:\Users\Admin\Desktop\PIX\cleaning.jpg" width="180px" height="150px"></center></td>
+     <td><center>Doing household chores<br><img src= "C:\Users\Admin\Desktop\PIX\cleaning.jpg" width="180px" height="150px"></center></td>
+     <td><center>Doing household chores<br><img src= "C:\Users\Admin\Desktop\PIX\cleaning.jpg" width="180px" height="150px"></center></td>
+     <td><center>Doing household chores<br><img src= "C:\Users\Admin\Desktop\PIX\cleaning.jpg" width="180px" height="150px"></center></td>
+     <td><center>Doing household chores<br><img src= "C:\Users\Admin\Desktop\PIX\cleaning.jpg" width="180px" height="150px"></center></td>
+     <td><center>Doing household chores<br><img src= "C:\Users\Admin\Desktop\PIX\cleaning.jpg" width="180px" height="150px"></center></td>
+  </tr>
+
+  <tr>
+     <td><center>9:00-10:00PM</center></td>
+     <td><center>Skincare<br><img src= "C:\Users\Admin\Desktop\PIX\skincare.jpg" width="180px" height="150px"></center></td>
+     <td><center>Skincare<br><img src= "C:\Users\Admin\Desktop\PIX\skincare.jpg" width="180px" height="150px"></center></td>
+     <td><center>Skincare<br><img src= "C:\Users\Admin\Desktop\PIX\skincare.jpg" width="180px" height="150px"></center></td>
+     <td><center>Skincare<br><img src= "C:\Users\Admin\Desktop\PIX\skincare.jpg" width="180px" height="150px"></center></td>
+     <td><center>Skincare<br><img src= "C:\Users\Admin\Desktop\PIX\skincare.jpg" width="180px" height="150px"></center></td>
+     <td><center>Skincare<br><img src= "C:\Users\Admin\Desktop\PIX\skincare.jpg" width="180px" height="150px"></center></td>
+     <td><center>Skincare<br><img src= "C:\Users\Admin\Desktop\PIX\skincare.jpg" width="180px" height="150px"></center></td>
+  </tr>
+  
+  <tr>
+     <td><center>10:00-11:00PM</center></td>
+     <td><center>Praying<br><img src= "C:\Users\Admin\Desktop\PIX\pray.jpg" width="180px" height="150px"></center></td>
+     <td><center>Praying<br><img src= "C:\Users\Admin\Desktop\PIX\pray.jpg" width="180px" height="150px"></center></td>
+     <td><center>Praying<br><img src= "C:\Users\Admin\Desktop\PIX\pray.jpg" width="180px" height="150px"></center></td>
+     <td><center>Praying<br><img src= "C:\Users\Admin\Desktop\PIX\pray.jpg" width="180px" height="150px"></center></td>
+     <td><center>Praying<br><img src= "C:\Users\Admin\Desktop\PIX\pray.jpg" width="180px" height="150px"></center></td>
+     <td><center>Praying<br><img src= "C:\Users\Admin\Desktop\PIX\pray.jpg" width="180px" height="150px"></center></td>
+     <td><center>Praying<br><img src= "C:\Users\Admin\Desktop\PIX\pray.jpg" width="180px" height="150px"></center></td>
+  </tr>
+
+  <tr>
+     <td><center>11:00-12:00AM</center></td>
+     <td><center>Sleeping<br><img src= "C:\Users\Admin\Desktop\PIX\sleep.jpg" width="180px" height="150px"></center></td>
+     <td><center>Doing homework<br><img src= "C:\Users\Admin\Desktop\PIX\homework.jpg" width="180px" height="150px"></center></td>
+     <td><center>Sleeping<br><img src= "C:\Users\Admin\Desktop\PIX\sleep.jpg" width="180px" height="150px"></center></td>
+     <td><center>Doing Homework<br><img src= "C:\Users\Admin\Desktop\PIX\homework.jpg" width="180px" height="150px"></center></td>
+     <td><center>Doing Homework<br><img src= "C:\Users\Admin\Desktop\PIX\homework.jpg" width="180px" height="150px"></center></td>
+     <td><center>Sleeping<br><img src= "C:\Users\Admin\Desktop\PIX\sleep.jpg" width="180px" height="150px"></center></td>
+     <td><center>Sleeping<br><img src= "C:\Users\Admin\Desktop\PIX\sleep.jpg" width="180px" height="150px"></center></td>
+  </tr>
+
+  <tr>
+     <td><center>12:00-1:00AM</center></td>
+     <td><center>Sleeping<br><img src= "C:\Users\Admin\Desktop\PIX\sleep.jpg" width="180px" height="150px"></center></td>
+     <td><center>Sleeping<br><img src= "C:\Users\Admin\Desktop\PIX\sleep.jpg" width="180px" height="150px"></center></td>
+     <td><center>Sleeping<br><img src= "C:\Users\Admin\Desktop\PIX\sleep.jpg" width="180px" height="150px"></center></td>
+     <td><center>Sleeping<br><img src= "C:\Users\Admin\Desktop\PIX\sleep.jpg" width="180px" height="150px"></center></td>
+     <td><center>Sleeping<br><img src= "C:\Users\Admin\Desktop\PIX\sleep.jpg" width="180px" height="150px"></center></td>
+     <td><center>Sleeping<br><img src= "C:\Users\Admin\Desktop\PIX\sleep.jpg" width="180px" height="150px"></center></td>
+     <td><center>Sleeping<br><img src= "C:\Users\Admin\Desktop\PIX\sleep.jpg" width="180px" height="150px"></center></td>
+  </tr>
+
+</center>
+</body>
+</table>
+</html>

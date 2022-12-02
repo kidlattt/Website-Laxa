@@ -1,0 +1,110 @@
+<html>
+<head>
+     <TITLE>MP3 by Laxa</TITLE>
+<body>
+     <body background= "C:\Users\Admin\Desktop\WEBP\gold.webp">
+     <center><H1>MP3 by Laxa</H1></center> 
+  
+     <center><H1>My Favorite Restaurants</H1></center>
+      
+
+    <center><UL TYPE="disc"></center>
+<center><br><img src= "C:\Users\Admin\Desktop\PIX\Jollibee.png" width="180px"</br></center>
+   <center><LI><a href= "https://www.jollibee.com.ph/">Jollibee</a></LI></center>
+
+<center><br><img src= "C:\Users\Admin\Desktop\PIX\shawarma.jpg" width="180px"</br></center>
+   <center><LI><a href= "https://www.shawarmashack.ph">Shawarma Shack</a></LI></center>
+
+<center><br><img src= "C:\Users\Admin\Desktop\PIX\kfc.png" width="180px"</br></center>
+   <center><LI><a href= "https://www.kfc.com.ph/home">KFC</a></LI></center> 
+
+<center><br><img src= "C:\Users\Admin\Desktop\PIX\giligans.jpg" width="180px"</br></center>
+   <center><LI><a href= "https://www.giligansrestaurant.com/">Giligan's</a></LI></center> 
+    
+<center><br><img src= "C:\Users\Admin\Desktop\PIX\savory.png" width="180px"</br></center>
+   <center> <LI><a href= "https://classicsavory.com/">Classic Savory</a></LI></center>  
+     
+
+    <center><h1>My Favorite Places</h1></center>
+      
+  
+    <center><UL TYPE="disc"></center>
+<center><br><img src= "C:\Users\Admin\Desktop\PIX\pampanga.png" width="180px"</br></center>
+   <center><LI><a href= "https://www.pampanga.gov.ph/">Pampanga</a></LI></center>
+
+<center><br><img src= "C:\Users\Admin\Desktop\PIX\tagaytay.jpg" width="180px"</br></center>
+   <center><LI><a href= "https://www.tagaytay.gov.ph/">Tagaytay city</a></LI></center>
+
+<center><br><img src= "C:\Users\Admin\Desktop\PIX\laguna.png" width="180px"</br></center>
+   <center><LI><a href= "https://laguna.gov.ph/">Laguna</a></LI></center> 
+
+<center><br><img src= "C:\Users\Admin\Desktop\PIX\cagayan.png" width="180px"</br></center>
+   <center><LI><a href= "https://www.cagayan.gov.ph/">Cagayan Valley</a></LI></center> 
+    
+<center><br><img src= "C:\Users\Admin\Desktop\WEBP\cav.webp" width="180px"</br></center>
+   <center> <LI><a href= "https://cavite.gov.ph/home/?tribe_venue=kawit">Cavite</a></LI></center>    
+  
+
+    <center><h1>My Favorite Collections</h1></center>
+       
+ 
+    <center><UL TYPE="disc"></center>
+<center><br><img src= "C:\Users\Admin\Desktop\PIX\Pony.png" width="180px"</br></center>
+   <center><LI><a href= "https://pony.com.ph/">Shoes</a></LI></center>
+
+<center><br><img src= "C:\Users\Admin\Desktop\PIX\bench.jpg" width="180px"</br></center>
+   <center><LI><a href= "https://shop.bench.com.ph/">Clothes</a></LI></center>
+
+<center><br><img src= "C:\Users\Admin\Desktop\PIX\bench.jpg" width="180px"</br></center>
+   <center><LI><a href= "https://shop.bench.com.ph/">Perfume</a></LI></center> 
+
+<center><br><img src= "C:\Users\Admin\Desktop\PIX\eb.jpg" width="180px"</br></center>
+   <center><LI><a href= "https://everbilenaonline.com/">Cosmetics</a></LI></center> 
+    
+<center><br><img src= "C:\Users\Admin\Desktop\PIX\cose.jpg" width="180px"</br></center>
+   <center> <LI><a href= "https://cosebags.com.ph/bags">bags</a></LI></center>   
+
+
+    <center><h1>My Favorite Artist</h1></center>
+      
+ 
+    <center><UL TYPE="disc"></center>
+<center><br><img src= "C:\Users\Admin\Desktop\PIX\adie.jpg" width="180px"</br></center>
+   <center><LI><a href= "https://www.facebook.com/adadieeeee/">Adie Garcia</a></LI></center>
+
+<center><br><img src= "C:\Users\Admin\Desktop\PIX\ariana.jfif" width="180px"</br></center>
+   <center><LI><a href= "https://www.arianagrande.com/">Ariana Grande</a></LI></center>
+
+<center><br><img src= "C:\Users\Admin\Desktop\PIX\sam.jpg" width="180px"</br></center>
+   <center><LI><a href= "https://samsmithworld.com/">Sam Smith</a></LI></center> 
+
+<center><br><img src= "C:\Users\Admin\Desktop\PIX\exo.jpg" width="180px"</br></center>
+   <center><LI><a href= "https://www.smtown.com/artist/musician/86">EXO</a></LI></center> 
+    
+<center><br><img src= "C:\Users\Admin\Desktop\WEPB\billie.webp" width="180px"</br></center>
+   <center> <LI><a href= "https://www.billieeilish.com/">Billie Eilish</a></LI></center>
+
+
+    <center><h1>My Favorite URLS</h1></center>
+      
+ 
+    <center><UL TYPE="disc"></center>
+<center><br><img src= "C:\Users\Admin\Desktop\WEBP\yt.webp" width="180px"</br></center>
+   <center><LI><a href= "https://www.youtube.com/">Youtube</a></LI></center>
+
+<center><br><img src= "C:\Users\Admin\Desktop\PIX\fb.png" width="180px"</br></center>
+   <center><LI><a href= "https://www.facebook.com/">Facebook</a></LI></center>
+
+<center><br><img src= "C:\Users\Admin\Desktop\PIX\ig.png" width="180px"</br></center>
+   <center><LI><a href= "https://www.instagram.com/">Instagram</a></LI></center> 
+
+<center><br><img src= "C:\Users\Admin\Desktop\PIX\pinterest.png" width="180px"</br></center>
+   <center><LI><a href= "https://www.pinterest.ph/">Pinterest</a></LI></center> 
+    
+<center><br><img src= "C:\Users\Admin\Desktop\PIX\twitter.png" width="180px"</br></center>
+   <center> <LI><a href= "https://twitter.com/">Twitter</a></LI></center>       
+   
+</UL>
+         
+</body>
+</html>

@@ -1,0 +1,24 @@
+<html>
+<title>MP8 education</title>
+
+<style>
+
+body{
+   background-color: #22a4ff;
+   background-image: linear-gradient(180deg, #22a4ff 0%, #00e4e4 50%, #2e36ea 100%);
+
+
+
+ }
+</style>
+<body>
+<center><font size="5"><h1>College</h1></center><br> 
+<center><img src= "C:\Users\Admin\Desktop\PIX\au logo.png" width="400">&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<img src= "C:\Users\Admin\Desktop\PIX\au building.jpg" width="700" height="400"><br>
+<br><a href= "https://www.arellano.edu.ph/jose-abad-santos-campus/welcome-jose-abad-santos-campus-arellano-university-pasay"><b><font size="40" color="#1a5276">Arellano University Jose Abad-Santos Campus</a></font></b><br>
+<br><b><font size="6" color="white">This is where I am curently studying and taking Bachelor of Science in Information technology 2nd year.</b><br>
+<img src= "C:\Users\Admin\Desktop\PIX\college pips.png" width="600" height="400">
+</body>   
+
+
+
+</html>

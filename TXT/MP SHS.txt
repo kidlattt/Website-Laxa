@@ -1,0 +1,76 @@
+<html>
+
+ <title>MP8 SHS</title>
+
+<style>
+{
+ box-sizing:boxing border-box;
+}
+body{
+     margin:0;
+     background-image:url("school.jpg");
+}
+ .container{
+     max-width:1200px;
+     max-height:auto;
+     margin:auto;
+     background:#d2b4de;
+     overflow:auto;
+     font-family:Berlin Sans FB; 
+     font-size:20px;
+
+}
+ .gallery{
+     margin:25px;
+     border:4px solid;
+     border-color:#f7dc6f;
+     float:left;
+     width:500px;
+     
+
+}
+ .desc{
+      padding:15px;
+      text-align:center;
+}
+
+</style>
+ 
+<center>     
+<div class ="container">
+   <div class ="gallery">
+    <img src="C:\Users\Admin\Desktop\PIX\Shs.jpg" width="350" height="320">
+     <div class ="desc">This is my bestfriends when i was in seniorhigh. I met them when I was in Grade 11 and I am the one who approached them<br>and eventually became friends.</div>
+ </div>  
+
+   <div class ="gallery">
+    <img src="C:\Users\Admin\Desktop\PIX\shs1.jpg" width="370" height="345">
+     <div class ="desc">In this photo, We decided to take a picture after school because the sunset was really beautiful and that day was unforgettable.</div>
+ </div>  
+
+
+   <div class ="gallery">
+    <img src="C:\Users\Admin\Desktop\PIX\juvielle.jpg" width="350" height="340">
+     <div class ="desc">Juvielle, 19 years old<br>Bacoor, Cavite</div>
+ </div>  
+
+   <div class ="gallery">
+    <img src="C:\Users\Admin\Desktop\PIX\yumiko.jpg" width="350" height="340">
+     <div class ="desc">Yumiko, 19 years old<br>Bacoor, Cavite</div>
+ </div>  
+    
+<div class ="gallery">
+    <img src="C:\Users\Admin\Desktop\PIX\charmaine.jpg" width="350" height="340">
+     <div class ="desc">Charmaine, 19 years old<br>Imus, Cavite</div>
+ </div>  
+
+<div class ="gallery">
+    <img src="C:\Users\Admin\Desktop\PIX\kat.jpg" width="350" height="330">
+     <div class ="desc">Katrina, 20 years old<br>Imus, cavite</div>
+ </div> 
+
+
+</center>
+</div>
+</body>
+</html>
